@@ -123,7 +123,6 @@ const UserDashboard = () => {
           })}
         </>
       )}
-      {/* {!addTodo && <button onClick={() => setAddTodo(true)} className='text-cyan-300 border border-solid border-cyan-300 py-2 text-center uppercase text-lg duration-300 hover:opacity-30'>ADD TODO</button>} */}
     </div>
   );
 };
